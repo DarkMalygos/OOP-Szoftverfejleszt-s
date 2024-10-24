@@ -1,2 +1,4 @@
 # OOP-Szoftverfejlesztes
-OOP Szoftverfejlesztés beadandó - Fehér Krisztofer László
+OOP Szoftverfejlesztés beadandó 
+Név: Fehér Krisztofer László
+Neptun kód: HO3VMK
